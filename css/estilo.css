@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
+.img-carrousel{
+    object-fit: cover;
+    object-position: 0 20%;
+       /*como o elemento se comporta em relação aoa container*/
+    height: 400px;
+}
+
+.fonte-titulo{
+    font-family: 'Pacifico', cursive;
+  
+}
+
+.fonte-titulo-carrousel{
+    text-shadow: 0 0 3px  #776E6E;
+}
+
+.cor-especial{
+    color: darkred;
+}
