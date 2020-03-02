@@ -19,3 +19,18 @@
 .cor-especial{
     color: darkred;
 }
+
+.botao-cor-especial {
+    background-color: darkred;
+    color: #fff;
+}
+
+.botao-cor-especial:hover{
+    background-color: #fff;
+    color: darkred;
+    border-color: darkred;
+}
+
+.borda-cor-especial{
+    border-color: darkred;
+}
